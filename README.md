@@ -8,6 +8,7 @@ This repository contains beginner Python practice programs.
 - marks_grade_program.py
 - weekday_program.py
 - even_odd_function.py
+- basic_calculator_function.py
   
 
 ## Author
