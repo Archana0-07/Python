@@ -9,6 +9,7 @@ This repository contains beginner Python practice programs.
 - weekday_program.py
 - even_odd_function.py
 - basic_calculator_function.py
+- practise programs.ipynb
   
 
 ## Author
